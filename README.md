@@ -1,2 +1,3 @@
-# JavaLab
-Java Lab
+# Lab
+
+College lab programs
