@@ -1,0 +1,15 @@
+/home/zoro/Projects/clg/sem-2/DotNet/program-6/bin/Debug/net9.0/program-6
+/home/zoro/Projects/clg/sem-2/DotNet/program-6/bin/Debug/net9.0/program-6.deps.json
+/home/zoro/Projects/clg/sem-2/DotNet/program-6/bin/Debug/net9.0/program-6.runtimeconfig.json
+/home/zoro/Projects/clg/sem-2/DotNet/program-6/bin/Debug/net9.0/program-6.dll
+/home/zoro/Projects/clg/sem-2/DotNet/program-6/bin/Debug/net9.0/program-6.pdb
+/home/zoro/Projects/clg/sem-2/DotNet/program-6/obj/Debug/net9.0/program-6.GeneratedMSBuildEditorConfig.editorconfig
+/home/zoro/Projects/clg/sem-2/DotNet/program-6/obj/Debug/net9.0/program-6.AssemblyInfoInputs.cache
+/home/zoro/Projects/clg/sem-2/DotNet/program-6/obj/Debug/net9.0/program-6.AssemblyInfo.cs
+/home/zoro/Projects/clg/sem-2/DotNet/program-6/obj/Debug/net9.0/program-6.csproj.CoreCompileInputs.cache
+/home/zoro/Projects/clg/sem-2/DotNet/program-6/obj/Debug/net9.0/program-6.sourcelink.json
+/home/zoro/Projects/clg/sem-2/DotNet/program-6/obj/Debug/net9.0/program-6.dll
+/home/zoro/Projects/clg/sem-2/DotNet/program-6/obj/Debug/net9.0/refint/program-6.dll
+/home/zoro/Projects/clg/sem-2/DotNet/program-6/obj/Debug/net9.0/program-6.pdb
+/home/zoro/Projects/clg/sem-2/DotNet/program-6/obj/Debug/net9.0/program-6.genruntimeconfig.cache
+/home/zoro/Projects/clg/sem-2/DotNet/program-6/obj/Debug/net9.0/ref/program-6.dll
