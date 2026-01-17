@@ -2,7 +2,7 @@
   description = "Beginner nix flake for .Net development";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.11";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
   };
 
   outputs = { self, nixpkgs }:
@@ -19,7 +19,7 @@
         dotnet-sdk_9
       ];
       shellHook = ''
-        echo " You're in .NET dev shell now!"
+        echo "You're in .NET dev shell now!"
       '';
     };
   };

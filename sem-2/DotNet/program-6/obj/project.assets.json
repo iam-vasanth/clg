@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/nix/store/djagiqw47k2alkksj9q7a63spl07935p-dotnet-sdk-9.0.308/share/dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/nix/store/sbf82zv55mjikcd7z5mhcnibx2i8vmd7-dotnet-sdk-9.0.308/share/dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
